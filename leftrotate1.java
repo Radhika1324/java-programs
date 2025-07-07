@@ -1,3 +1,5 @@
+
+//left rotate elements
 import java.util.*;
 
 public class leftrotate1 {
