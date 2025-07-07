@@ -1,5 +1,5 @@
+//1d array linear search
 
-// 1d array linear search 
 import java.util.*;
 
 public class find {
