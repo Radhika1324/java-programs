@@ -1,3 +1,5 @@
+
+//KADANE'S Algorithm
 import java.util.*;
 
 public class Kadanegs {
